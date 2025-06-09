@@ -1,0 +1,7 @@
+﻿services:
+  cicdtheeasyway:
+    image: cicdtheeasyway
+    build:
+      context: .
+      dockerfile: Dockerfile
+

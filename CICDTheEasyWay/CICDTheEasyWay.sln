@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDTheEasyWay", "CICDTheEasyWay.csproj", "{2F4CC95B-FD18-4B20-9746-2281BBB7D626}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{27CC7C4C-89C2-4809-A846-88C701131A19}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F4CC95B-FD18-4B20-9746-2281BBB7D626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4CC95B-FD18-4B20-9746-2281BBB7D626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4CC95B-FD18-4B20-9746-2281BBB7D626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4CC95B-FD18-4B20-9746-2281BBB7D626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
